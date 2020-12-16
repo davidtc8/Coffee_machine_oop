@@ -2,4 +2,4 @@
 ## Cofffee Machine with Object Oriented Programming!
 
 # Description:
-This project recreates a real coffee machine where you insert money and have ingredients to work with. 
+### This project recreates a real coffee machine where you insert money and have ingredients to work with. 
