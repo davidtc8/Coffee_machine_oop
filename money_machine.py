@@ -1,3 +1,7 @@
+#This is the coffee machine
+
+#You'll be needing the other files, because they're classes needed for the project.
+
 class MoneyMachine:
 
     CURRENCY = "$"
